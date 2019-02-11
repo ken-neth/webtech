@@ -1,0 +1,20 @@
+{
+  "name": "webtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-neth/webtech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken-neth/webtech/issues"
+  },
+  "homepage": "https://github.com/ken-neth/webtech#readme"
+}
